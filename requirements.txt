@@ -4,5 +4,4 @@ numpy
 pandas
 seaborn
 streamlit
-sklearn
 scikit-learn
