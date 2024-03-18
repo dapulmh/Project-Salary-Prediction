@@ -1,0 +1,10 @@
+Babel
+matplotlib
+numpy
+pandas
+seaborn
+streamlit
+pickle
+joblib
+sklearn
+scikit-learn
